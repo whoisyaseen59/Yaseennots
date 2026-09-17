@@ -1,0 +1,6 @@
+{
+  "name": "Yaseen",
+  "description": "Comprehensive productivity suite featuring Yaseen Notes, Yaseen Tasks, Yaseen Schedule, and YaRVerse AI Chatbot with multi-provider API integration (Gemini, OpenAI, OpenRouter).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
